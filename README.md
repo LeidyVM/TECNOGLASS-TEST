@@ -1,6 +1,6 @@
 Leidy Vallejo
 
-Hola, mi nombre es Leidy, encantando de que quieras conoces mi proyecto.
+Hola, mi nombre es Leidy, encantando de que quieras conocer mi proyecto.
 
 A continuación, un desarrollo de una página web de movie full responsive, la API escogida para esta página es OMDB http://www.omdbapi.com/
 
@@ -13,6 +13,7 @@ Hecha con CSS puro, con buenas prácticas de accesibilidad y SEO. Abajo encontra
 
 
 #1 npm install
+
 #2 npm run dev
 
 
